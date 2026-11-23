@@ -101,7 +101,7 @@ plt.show()
 
 # Step 8: Key Findings
 
-print("\n========== NETFLIX CONTENT ANALYSIS ==========")
+print("\n-------- NETFLIX CONTENT ANALYSIS ---------")
 
 print("Total Content:", total_content)
 
@@ -116,5 +116,5 @@ if movie_percentage > tv_percentage:
 else:
     print("Finding: TV Shows are more available than Movies on Netflix.")
 
-print("==============================================")
+print("-----------------------------------------------")
 
